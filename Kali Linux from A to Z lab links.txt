@@ -1,0 +1,37 @@
+The following links will allow you to download the Book and Virtual Machines used in my course "Ethical Hacking using Kali Linux from A to Z"
+
+Dropbox password:Kali@2017bmerdf~
+
+Kali Linux configured virtual machine
+https://www.dropbox.com/s/7y5att2wm8yt0hl/Kali%20Linux.zip?dl=0
+Username: root
+password: Password
+
+Windows 7 VM with all the application installed 
+https://www.dropbox.com/s/5xdsmoer93t0r10/Client4.zip?dl=0
+Username: User
+password: Password
+
+Windows server 2003 Virtual machine 
+https://www.dropbox.com/s/a2hgk50lg1k3ixg/Windows%20Server%202003%20Enterprise%20Edition.zip?dl=0
+User name : Administrator
+password : Password12345
+
+Windows Victim XP
+https://www.dropbox.com/s/gzuwu49eesgzink/Windows%20XP%20Professional%20-%20Copy%20%282%29.zip?dl=0
+
+OWASPBWA
+https://www.dropbox.com/s/ehrjz5agbm0y024/OWASP_Broken_Web_Apps_VM_1.2.7z?dl=0
+Username: root
+password: owaspbwa
+
+Username: Administrator
+password: Password12345
+
+Course Materials: 
+https://www.dropbox.com/s/2b6j39dqz93mgja/Penetration%20Testing%20with%20Kali%20Linux%20%282014%29.pdf?dl=0
+
+Follow up New attacks, hacking tips and tricks and Hacking news 
+Facebook : https://www.facebook.com/infosec4tc
+Twitter ID : @InfoSec4tc
+website: www.infosec4tc.com
